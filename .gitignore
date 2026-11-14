@@ -1,0 +1,15 @@
+*
+!.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/deploy.yml
+!index.html
+!package.json
+!package-lock.json
+!vite.config.js
+!src/
+!src/**
+!public/
+!public/**
+!dist/
+!dist/**
